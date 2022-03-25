@@ -1,0 +1,38 @@
+2022-03-16 21:39:21 INFO  LoginPageTest:59 - login successful with username: vijju12@gmail.com
+  2022-03-16 21:39:31 INFO  LoginPageTest:69 - browser is closed
+  2022-03-16 21:39:38 INFO  LoginPageTest:59 - login successful with username: vijayakadiyala.k@gmail.com
+  2022-03-16 21:39:49 INFO  LoginPageTest:69 - browser is closed
+  2022-03-16 21:39:56 INFO  LoginPageTest:59 - login successful with username: 
+  2022-03-16 21:40:07 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:51:14 INFO  LoginPageTest:59 - login successful with username: vijju12@gmail.com
+  2022-03-17 14:51:25 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:51:33 INFO  LoginPageTest:59 - login successful with username: vijayakadiyala.k@gmail.com
+  2022-03-17 14:51:44 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:51:52 INFO  LoginPageTest:59 - login successful with username: 
+  2022-03-17 14:52:02 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:53:55 INFO  LoginPageTest:59 - login successful with username: vijju12@gmail.com
+  2022-03-17 14:54:06 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:54:14 INFO  LoginPageTest:59 - login successful with username: vijayakadiyala.k@gmail.com
+  2022-03-17 14:54:25 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:54:48 INFO  LoginPageTest:59 - login successful with username: 
+  2022-03-17 14:54:58 INFO  LoginPageTest:69 - browser is closed
+  2022-03-17 14:55:13 INFO  LoginPageTest:69 - browser is closed
+  2022-03-18 21:28:45 INFO  LoginPageTest:59 - login successful with username: vijju12@gmail.com
+  2022-03-18 21:28:56 INFO  LoginPageTest:69 - browser is closed
+  2022-03-18 21:29:05 INFO  LoginPageTest:59 - login successful with username: vijayakadiyala.k@gmail.com
+  2022-03-18 21:29:16 INFO  LoginPageTest:69 - browser is closed
+  2022-03-18 21:29:25 INFO  LoginPageTest:59 - login successful with username: 
+  2022-03-18 21:29:36 INFO  LoginPageTest:69 - browser is closed
+  2022-03-18 21:29:52 INFO  LoginPageTest:69 - browser is closed
+  2022-03-21 18:35:50 INFO  BaseClass:42 - ***************************Starting the execution*************************
+  2022-03-21 18:35:55 INFO  BaseClass:65 - entering application URL
+  2022-03-21 18:35:58 INFO  LoginPageTest:59 - login successful with username: vijju12@gmail.com
+  2022-03-21 18:36:09 INFO  LoginPageTest:69 - browser is closed
+  2022-03-21 18:36:09 INFO  BaseClass:42 - ***************************Starting the execution*************************
+  2022-03-21 18:36:15 INFO  BaseClass:65 - entering application URL
+  2022-03-21 18:36:18 INFO  LoginPageTest:59 - login successful with username: vijayakadiyala.k@gmail.com
+  2022-03-21 18:36:29 INFO  LoginPageTest:69 - browser is closed
+  2022-03-21 18:36:29 INFO  BaseClass:42 - ***************************Starting the execution*************************
+  2022-03-21 18:36:33 INFO  BaseClass:65 - entering application URL
+  2022-03-21 18:36:43 INFO  LoginPageTest:69 - browser is closed
+  

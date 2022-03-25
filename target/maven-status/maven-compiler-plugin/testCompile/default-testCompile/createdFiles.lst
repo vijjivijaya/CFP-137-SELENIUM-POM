@@ -1,0 +1,4 @@
+com\fb\qa\testcases\LoginPageTest.class
+com\fb\qa\testcases\ProfilePageTest.class
+com\fb\qa\testcases\HomePageTest.class
+com\fb\qa\testcases\FriendsPageTest.class
